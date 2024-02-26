@@ -6,4 +6,4 @@
 ![](https://komarev.com/ghpvc/?username=iltafah&color=green)
 
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651)
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651&sort=xp)
+<!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651&sort=xp)-->
