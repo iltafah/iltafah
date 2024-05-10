@@ -5,5 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=iltafah&color=green)
 
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651)
+<!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651)-->
 <!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651&sort=xp)-->
+<img src="https://duolingo-stats-card.vercel.app/api?username=Holy_Semicolon" alt="Duolingo Stats"/>
