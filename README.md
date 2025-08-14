@@ -9,8 +9,10 @@ Problem Solving Score in Code Wars:
 ![](https://komarev.com/ghpvc/?username=iltafah&color=green)
 
 BOOT.DEV Profile:
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/bd96803e-d9f0-48a9-978f-0b86e6d1f02e/thumbnail" >
+<p style="text-align: left;">
+  <a href="https://www.boot.dev/u/holysemicolon">
+    <img src="https://api.boot.dev/v1/users/public/bd96803e-d9f0-48a9-978f-0b86e6d1f02e/thumbnail" alt="Boot.dev profile thumbnail">
+  </a>
 </p>
 
 <!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651)-->
