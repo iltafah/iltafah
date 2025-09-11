@@ -17,7 +17,7 @@ BOOT.DEV Profile:
 
 ![](https://komarev.com/ghpvc/?username=iltafah&color=green)
 
-<a href="https://app.daily.dev/eliastafah"><img src="https://api.daily.dev/devcards/v2/SJPY7VSgwvEOAe3Up3sLu.png?type=wide&r=gdf" width="652" alt="Elias Tafah's Dev Card"/></a>
+<a href="https://app.daily.dev/eliastafah"><img src="https://api.daily.dev/devcards/v2/SJPY7VSgwvEOAe3Up3sLu.png?type=default&r=gdf" width="356" alt="Elias Tafah's Dev Card"/></a>
 
 <!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651)-->
 <!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651&sort=xp)-->
