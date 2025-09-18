@@ -22,7 +22,7 @@ BOOT.DEV Profile:
 ### Profile Views
 counting of visitors to this page in this section started from September 18, 2025
 
-![](https://count.getloli.com/get/@iltafah.github.readme)
+![](https://count.getloli.com/get/@iltafah.github.readme?theme=rule34)
 </br>
 
 <!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651)-->
