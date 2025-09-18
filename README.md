@@ -19,6 +19,12 @@ BOOT.DEV Profile:
 
 <a href="https://app.daily.dev/eliastafah"><img src="https://api.daily.dev/devcards/v2/SJPY7VSgwvEOAe3Up3sLu.png?type=default&r=gdf" width="356" alt="Elias Tafah's Dev Card"/></a>
 
+### Profile Views
+counting of visitors to this page in this section started from September 18, 2025
+
+![](https://count.getloli.com/get/@iltafah.github.readme)
+</br>
+
 <!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651)-->
 <!--![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id=689143651&sort=xp)-->
 <!--<img src="https://duolingo-stats-card.vercel.app/api?username=Holy_Semicolon" alt="Duolingo Stats"/>
