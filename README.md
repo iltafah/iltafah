@@ -20,6 +20,10 @@
 <h2>📰 Daily.dev Feed</h2>
 <p align="center"> <a href="https://app.daily.dev/eliastafah"><img src="https://api.daily.dev/devcards/v2/SJPY7VSgwvEOAe3Up3sLu.png?type=wide&r=ja2" width="652" alt="Elias Tafah's Dev Card"/></a> </p>
 
+
+<h2>🌍 Language Learning on Duolingo</h2>
+<p align="center"> <img src="https://duolingo-stats-card.vercel.app/api?username=Elias-Tafah" alt="Duolingo Stats" /> </p>
+
 <!-- <p align="center">
 🙌 Thanks for Visiting!
   <br/>
