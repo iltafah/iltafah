@@ -17,7 +17,7 @@
 
 
 <h2>⚔️ Codewars Problem Solving Progress</h2>
-<p align="center"> <a href="https://www.codewars.com/users/atafah" target="_blank"> <img src="https://www.codewars.com/users/holy%20semicolon/badges/large" alt="Codewars Badge" /> </a> </p>
+<p align="center"> <a href="https://www.codewars.com/users/holy%20semicolon" target="_blank"> <img src="https://www.codewars.com/users/holy%20semicolon/badges/large" alt="Codewars Badge" /> </a> </p>
 
 
 <h2>📚 Learning Journey on Boot.dev</h2>
