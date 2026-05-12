@@ -1,10 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=500&color=4000FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-  </a>
-  <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand gif" />
-</h1>
 
 <!-- <p align="center"> <img src="https://raw.githubusercontent.com/atafah/atafah/output/snake.svg" alt="GitHub activity animation" /> </p> -->
 
